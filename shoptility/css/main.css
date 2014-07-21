@@ -1,0 +1,9 @@
+body { padding: 30px; font-size: 12px }
+
+div.form{margin-left:15px;}
+
+.rowfloat{float:left; margin-right: 10px;}
+
+.rowrelative{position: relative;}
+
+/*.actions_cat_0{display: none;}*/
